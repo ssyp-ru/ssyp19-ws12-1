@@ -1,0 +1,7 @@
+*.user
+[Dd]ebug/
+[Bb]in/
+[Oo]bj/
+/.idea
+.vs/
+.vscode/
